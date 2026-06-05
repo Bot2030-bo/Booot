@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FileManager" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">#006E3D</item>
+        <item name="colorPrimaryVariant">#00511A</item>
+        <item name="colorSecondary">#516200</item>
+        <item name="colorSecondaryVariant">#38402D</item>
+        <item name="colorError">#B3261E</item>
+        <item name="colorSurface">#FFFBFE</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorOnError">#FFFFFF</item>
+        <item name="colorOnSurface">#201A1B</item>
+    </style>
+</resources>
